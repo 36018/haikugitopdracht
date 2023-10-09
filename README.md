@@ -23,7 +23,7 @@ run het programma
 ## Haiku function template
 
 ```
-function HaikuX(){
+function Haiku1(){
      console.log("haiku by:","AUTHOR");
      console.log("REGEL1");
      console.log("REGEL2");

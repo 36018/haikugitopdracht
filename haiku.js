@@ -1,9 +1,9 @@
 
 function Haiku1(){
-     console.log("haiku by:","Masaoaka Shiki");
-     console.log("Consider me");
-     console.log("As one who loved poetry");
-     console.log("And persimmons.");
+     console.log("haiku by:","AKobayahsi Issa");
+     console.log("The wren");
+     console.log("Earns his living");
+     console.log("Noiselessly.");
 }
 
 
@@ -17,9 +17,9 @@ function Haiku2(){
 
 function Haiku3(){
      console.log("haiku by:","Yosa Buson");
-     console.log("Blowing from the west");
-     console.log("Fallen leaves gather");
-     console.log("In the east.");
+     console.log("Over-ripe sushi,");
+     console.log("The Master");
+     console.log("Is full of regret.");
 }
 
 
