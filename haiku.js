@@ -22,6 +22,8 @@ function Haiku3(){
      console.log("Is full of regret.");
 }
 
+console.log("Hi Celine, test voor conflicts");
+
 
 Haiku1()
 Haiku2()
